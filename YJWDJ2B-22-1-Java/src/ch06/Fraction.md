@@ -1,0 +1,10 @@
+- 분수 클래스: Fraction
+  - ja: int
+  - mo: int
+----
+- 생성자 중복정의
+- \+ toString: String
+- \+ add(Fraction f): Fraction
+- \+ mul(Fraction f): Fraction
+- \+ add(Fraction f1, Fraction f2): static Fraction
+- \- gcd(int a, int b): static int
